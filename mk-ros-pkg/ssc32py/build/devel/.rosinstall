@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/joseph/catkin_ws/install/share/mk-ros-pkg/ssc32py/build/devel/setup.sh
